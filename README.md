@@ -44,5 +44,14 @@ Please check `README.md` in each folder for detailed usage.
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
+@article{article,
+author = {Yu, Hailin and Liu, Jiarun and Ye, Zhichao and Chen, Xinyu and Zhan, Ruohao and ShenTu, Yichun and Lu, Zhongyun and Zhang, Guofeng},
+year = {2024},
+month = {01},
+pages = {1-18},
+title = {An Indoor Large Scale Panoramic Visual Localization Dataset},
+journal = {Journal of Image and Graphics},
+doi = {10.11834/jig.240284}
+}
 ```
 
